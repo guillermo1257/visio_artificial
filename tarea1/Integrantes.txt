@@ -4,5 +4,7 @@ Integrantes:
 - Edward Quisocala Machaca
 - Guillermo Miranda Huarancca
 
+TEMA: Reconocimiento Automático de las placas de Automóviles Peruanos
+
 
 https://ieeexplore.ieee.org/abstract/document/9220217
